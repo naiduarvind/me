@@ -15,7 +15,8 @@ A repository that holds basic information about me that can be used for miscella
 
 ## Links to my personal blog:
 
- - [Arvind Naidu](https://naiduarvind.github.io) Everything about me.
+ - [Arvind Naidu](https://naiduarvind.github.io) About me.
+ - [Medium](https://medium.com/@arvindnaidu) My legendary tech blog.
 
 
 ## Author
@@ -48,17 +49,17 @@ My preferred biography for technical endeavors:
 
 #### Chaos Engineering
 
-[![IMAGE ALT TEXT HERE](/img/)](https://app.ludus.one/8fc92dec-9989-4a5b-95b2-820140dc7bd5#1)
+[![Chaos Engineering](/img/chaos-engineering.png)](https://app.ludus.one/8fc92dec-9989-4a5b-95b2-820140dc7bd5#1)
 
 #### Simplifying Observability on Regressions
 
-[![IMAGE ALT TEXT HERE](/img/)](https://app.ludus.one/4cf64f1a-9fde-4354-814f-4d65c514876a#1)
+[![Simplifying Observability on Regressions](/img/simplifying-observability-on-regressions.png)](https://app.ludus.one/4cf64f1a-9fde-4354-814f-4d65c514876a#1)
 
 #### Making The Invisible Visible: Costs
 
-[![IMAGE ALT TEXT HERE](/img/)](https://medium.com/@arvindnaidu/making-the-invisible-visible-costs-66f53c2b5a64)
+[![Making The Invisible Visible - Costs](img/making-the-invisible-visible-costs.jpeg)](https://medium.com/@arvindnaidu/making-the-invisible-visible-costs-66f53c2b5a64)
 
 
 #### Full Podcast Playlist:
 
-I track all of my podcasts in this [Podcast playlist]()
+I track all of my podcasts in this [podcast repository]()
