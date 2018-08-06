@@ -1,7 +1,7 @@
 # Arvind Naidu
 
 
-<p align="center"><img src="/img/" width="340"></p>
+<p align="center"><img src="/img/arvind-headshot-selfie.jpg" width="340"></p>
 
 
 A repository that holds basic information about me that can be used for miscellaneous public facing endeavors.
