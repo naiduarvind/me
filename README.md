@@ -60,6 +60,6 @@ My preferred biography for technical endeavors:
 [![Making The Invisible Visible - Costs](img/making-the-invisible-visible-costs.jpeg)](https://medium.com/@arvindnaidu/making-the-invisible-visible-costs-66f53c2b5a64)
 
 
-#### Full Podcast Playlist:
+#### Full Podcast Notepad:
 
-I track all of my podcasts in this [podcast repository]()
+I track all of my podcasts in this [podcast notepad]()
