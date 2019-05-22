@@ -43,7 +43,7 @@ My preferred biography for technical endeavors:
 ## Presentations and Blog Posts
 
 #### The Journey of Being an SRE
-[![The Journey of Being an SRE](/img/the-journey-of-being-an-sre.)](https://youtu.be/N8FI0qoouF8?t=2728)
+[![The Journey of Being an SRE](/img/the-journey-of-being-an-sre.png)](https://youtu.be/N8FI0qoouF8?t=2728)
 
 #### Chaos Engineering
 
