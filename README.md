@@ -19,11 +19,6 @@ A repository that holds basic information about me that can be used for miscella
  - [Medium](https://medium.com/@arvindnaidu) My legendary tech blog.
 
 
-## Author
-
- - 
-
-
 ## Request for me to speak at your event
 
 The best way to ask me to speak at your conference is to email [placeholder] and include the following information:
@@ -46,6 +41,9 @@ My preferred biography for technical endeavors:
 
 
 ## Presentations and Blog Posts
+
+#### The Journey of Being an SRE
+[![The Journey of Being an SRE](/img/the-journey-of-being-an-sre.)](https://youtu.be/N8FI0qoouF8?t=2728)
 
 #### Chaos Engineering
 
