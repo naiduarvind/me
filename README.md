@@ -46,7 +46,11 @@ My preferred biography for technical endeavors:
 [![The Journey of Being an SRE](/img/the-journey-of-being-an-sre.png)](https://youtu.be/N8FI0qoouF8?t=2728)
 
 #### First Quarter as an SRE
-[![First Quarter as an SRE](/img/first-quarter-as-an-sre.png)](https://medium.com/servicerocket-eng/first-quarter-as-an-sre-11117866a64e)
+<p align="center">
+  <a href="https://medium.com/servicerocket-eng/first-quarter-as-an-sre-11117866a64e"> 
+  <img src="img/first-quarter-as-an-sre.png" alt="First Quarter as an SRE"> 
+  </a>
+</p>
 
 #### Chaos Engineering
 
