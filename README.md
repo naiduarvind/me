@@ -27,7 +27,7 @@ My preferred biography for technical endeavors:
 
 ## Request for me to speak at your event
 
-The best way to ask me to speak at your conference is to book a time [here](calendly.com/arvind-naidu/talk-by-arvind) and include the following information:
+The best way to ask me to speak at your conference is to book a time [here](https://calendly.com/arvind-naidu/talk-by-arvind) and include the following information:
 
  - What is the name of the event?
  - What is the best link to find out more about the event?
