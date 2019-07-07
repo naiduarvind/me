@@ -1,7 +1,7 @@
 # Arvind Naidu
 
 
-<p align="center"><img src="/img/arvind-headshot-selfie.jpg" width="340"></p>
+<p align="center"><img src="img/arvind-headshot-selfie.jpg" width="340"></p>
 
 
 A repository that holds basic information about me that can be used for miscellaneous public facing endeavors.
@@ -16,21 +16,21 @@ A repository that holds basic information about me that can be used for miscella
 ## Links to my personal blog:
 
  - [Arvind Naidu](https://naiduarvind.github.io) About me.
- - [Medium](https://medium.com/@arvindnaidu) My legendary tech blog.
+ - [Medium](https://medium.com/@arvindnaidu) Rants on my blog.
 
 
 ## Request for me to speak at your event
 
-The best way to ask me to speak at your conference is to email [placeholder] and include the following information:
+The best way to ask me to speak at your conference is to book a time [here](calendly.com/arvind-naidu/talk-by-arvind) and include the following information:
 
- - What is the name of the event
- - What is the best link to find out more about the event
+ - What is the name of the event?
+ - What is the best link to find out more about the event?
  - What is your name and contact information?
  - What type of presentation you have in mind?
  - Are there any race tracks near the event? Skate park? Exotic cafes?
  - Anything else you want!
  
- These emails go directly to a private account that I own. I receive push notifications, so I assure you - I will see this request. It might take me a while to get back to you, so please be patient. 
+ These events go directly to a private account that I own. I receive push notifications, so I assure you - I will see this request. It might take me a while to get back to you, so please be patient. 
  
 
 ## Biography 
@@ -41,6 +41,9 @@ My preferred biography for technical endeavors:
 
 
 ## Presentations and Blog Posts
+
+#### Black Swans of EKS in Production (Day 118)
+[![Black Swans of EKS in Production](/img/black-swans-of-eks-in-production.png)](https://www.beautiful.ai/-Lj-73V-Xwa7IoQ7yPcL/1)
 
 #### The Journey of Being an SRE
 [![The Journey of Being an SRE](/img/the-journey-of-being-an-sre.png)](https://youtu.be/N8FI0qoouF8?t=2728)
