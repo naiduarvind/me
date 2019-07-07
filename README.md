@@ -6,17 +6,23 @@
 
 A repository that holds basic information about me that can be used for miscellaneous public facing endeavors.
 
-## Find me online
+## Biography 
 
- - GitHub [naiduarvind](https://github.com/naiduarvind) 
- - Twitter [@rvine_naidu](https://twitter.com/rvine_naidu) 
- - LinkedIn [naiduarvind](https://linkedin.com/naiduarvind) 
+My preferred biography for technical endeavors:
+
+> Arvind Naidu is a Site Reliability Engineer (SRE) at [Learndot@ServiceRocket](https://www.learndot.com/) and a Cloud Consultant at [Mindvalley](https://mindvalley.com). Arvind also provides pro-bono consultations for [Fave](https://myfave.com/) and [Vase](https://vase.ai/). Arvind focuses primarily on reliability, resilience and performance of infrastructure and application by approaching / adopting good practises. Arvind currently lives in Kuala Lumpur and spends his free time skateboarding, reading and racing.
+
+## Online Presence
+
+ - [GitHub](https://github.com/naiduarvind) 
+ - [Twitter](https://twitter.com/rvine_naidu) 
+ - [LinkedIn](https://linkedin.com/naiduarvind) 
  
 
-## Links to my personal blog:
+## Online Trails:
 
- - [Arvind Naidu](https://naiduarvind.github.io) About me.
- - [Medium](https://medium.com/@arvindnaidu) Rants on my blog.
+ - [About Me](https://naiduarvind.github.io)
+ - [My Blog](https://medium.com/@arvindnaidu)
 
 
 ## Request for me to speak at your event
@@ -32,14 +38,6 @@ The best way to ask me to speak at your conference is to book a time [here](cale
  
  These events go directly to a private account that I own. I receive push notifications, so I assure you - I will see this request. It might take me a while to get back to you, so please be patient. 
  
-
-## Biography 
-
-My preferred biography for technical endeavors:
-
-> Arvind Naidu is a Site Reliability Engineer (SRE) at ServiceRocket focusing on containers, infrastructure, and Kubernetes. Arvind lives in Kuala Lumpur and spends his free time skateboarding, reading and racing.
-
-
 ## Presentations and Blog Posts
 
 #### Black Swans of EKS in Production (Day 118)
@@ -66,8 +64,3 @@ My preferred biography for technical endeavors:
 #### Making The Invisible Visible: Costs
 
 [![Making The Invisible Visible - Costs](img/making-the-invisible-visible-costs.jpeg)](https://medium.com/@arvindnaidu/making-the-invisible-visible-costs-66f53c2b5a64)
-
-
-#### Full Podcast Notepad:
-
-I track all of my podcasts in this [podcast notepad]()
