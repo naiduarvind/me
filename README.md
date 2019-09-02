@@ -40,8 +40,8 @@ The best way to ask me to speak at your conference is to book a time [here](http
  
 ## Presentations and Blog Posts
 
-#### 
-[![Tug of War To Pull The Plug: Bare Metal To GKE Migration Under Production Load!](/img/black-swans-of-eks-in-production.png)](https://youtu.be/17azhiILQT8?t=637)
+#### Tug of War To Pull The Plug: Bare Metal To GKE Migration Under Production Load!
+[![Tug of War To Pull The Plug: Bare Metal To GKE Migration Under Production Load!](/img/tug-of-war-to-pull-the-plug-bare-metal-to-gke-migration-under-production-load.png)](https://youtu.be/17azhiILQT8?t=637)
 
 #### Black Swans of EKS in Production (Day 118)
 [![Black Swans of EKS in Production](/img/black-swans-of-eks-in-production.png)](https://www.beautiful.ai/-Lj-73V-Xwa7IoQ7yPcL/1)
